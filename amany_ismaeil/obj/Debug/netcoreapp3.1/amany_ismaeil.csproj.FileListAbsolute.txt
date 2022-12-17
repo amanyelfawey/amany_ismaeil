@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\amany_ismaeil\bin\Debug\netcoreapp3.1\amany_ismaeil.exe
+C:\Users\Lenovo\Desktop\amany_ismaeil\bin\Debug\netcoreapp3.1\amany_ismaeil.deps.json
+C:\Users\Lenovo\Desktop\amany_ismaeil\bin\Debug\netcoreapp3.1\amany_ismaeil.runtimeconfig.json
+C:\Users\Lenovo\Desktop\amany_ismaeil\bin\Debug\netcoreapp3.1\amany_ismaeil.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\amany_ismaeil\bin\Debug\netcoreapp3.1\amany_ismaeil.dll
+C:\Users\Lenovo\Desktop\amany_ismaeil\bin\Debug\netcoreapp3.1\amany_ismaeil.pdb
+C:\Users\Lenovo\Desktop\amany_ismaeil\obj\Debug\netcoreapp3.1\amany_ismaeil.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\amany_ismaeil\obj\Debug\netcoreapp3.1\amany_ismaeil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\amany_ismaeil\obj\Debug\netcoreapp3.1\amany_ismaeil.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\amany_ismaeil\obj\Debug\netcoreapp3.1\amany_ismaeil.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\amany_ismaeil\obj\Debug\netcoreapp3.1\amany_ismaeil.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\amany_ismaeil\obj\Debug\netcoreapp3.1\amany_ismaeil.dll
+C:\Users\Lenovo\Desktop\amany_ismaeil\obj\Debug\netcoreapp3.1\amany_ismaeil.pdb
+C:\Users\Lenovo\Desktop\amany_ismaeil\obj\Debug\netcoreapp3.1\amany_ismaeil.genruntimeconfig.cache
